@@ -22,7 +22,7 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drzmarco&show_icons=true&locale=en&layout=compact" alt="drzmarco" /></p>
 -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drzmarco&show_icons=true&locale=en" alt="drzmarco" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drzmarco&show_icons=true&theme=tokyonight&locale=en" alt="drzmarco" /></p>
 
 
 <!--
