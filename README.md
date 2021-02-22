@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm DrMarco</h1>
 <h3 align="center">I'm a computer science student at University of Padua.</h3>
 
-<p align="center"> <a href="https://github.com/drzmarco/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drzmarco&theme=dracula
-" alt="drzmarco" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drzmarco&no-frame=true&no-bg=true&theme=dracula" alt="drzmarco" /></a> </p> </p>
 
 - 🔭 I’m currently working on **S****Bot**
 
