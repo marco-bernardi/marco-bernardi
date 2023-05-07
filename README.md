@@ -4,14 +4,15 @@
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/marcob11/)
 
 ## About Me
-I'm an Italian student, currently attending a Bachelor Degree in Computer Science at UniPD.
-I'm passionate about data science and web development.
+Italian student, currently attending a Bachelor Degree in Computer Science at UniPD.<br>
+I'm passionate about AI and Networking.
 
 ## Education
 * Attending Bachelor's Degree in Computer Science @ University of Padua, Italy
 
 ## Main Experiences
 * System Integrator @ Self-employed, Padua, Italy
+* GANs AI Internship @ Breton S.p.A., Treviso, Italy
 * Network Security Internship @ Ergon Informatica, Castelfranco Veneto, Italy
 
 ## Languages I know
@@ -28,3 +29,4 @@ I'm passionate about data science and web development.
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgressSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
