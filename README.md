@@ -7,7 +7,7 @@ Skilled in data collection software development (web and local document scraping
 * Attending MSc in Computer Science @ University of Padua, Italy
 
 ## Main Experiences
-* System Integrator @ Self-employed, Padua, Italy
+* Product Developer & IT Consultant @ Self-employed, Padua, Italy
 * GANs AI Internship @ Breton S.p.A., Treviso, Italy
 * Network Security Internship @ Ergon Informatica, Castelfranco Veneto, Italy
 
