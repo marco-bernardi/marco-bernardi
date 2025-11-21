@@ -4,7 +4,7 @@ Skilled in data collection software development (web and local document scraping
 
 ## Education
 * Bachelor's Degree in Computer Science @ University of Padua, Italy
-* Attending MSc in Computer Science @ University of Padua, Italy
+* Master's Degree in Computer Science @ University of Padua, Italy
 
 ## Main Experiences
 * Product Developer & IT Consultant @ Self-employed, Padua, Italy
