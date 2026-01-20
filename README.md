@@ -1,28 +1,51 @@
-## About Me
-Italian MSc student at UniPD with a passion for AI and Networking. 🎓🤖🌐<br>
-Skilled in data collection software development (web and local document scraping) and experienced in creating industrial embedded solutions with PIC and ATMEL microcontrollers. 💻🌐🏭
+# Hi, I'm Marco! 👋
 
-## Education
-* Bachelor's Degree in Computer Science @ University of Padua, Italy
-* Master's Degree in Computer Science @ University of Padua, Italy
+### Computer Scientist | AI & Networking Specialist | Full-Stack Developer
 
-## Main Experiences
-* Product Developer & IT Consultant @ Self-employed, Padua, Italy
-* GANs AI Internship @ Breton S.p.A., Treviso, Italy
-* Network Security Internship @ Ergon Informatica, Castelfranco Veneto, Italy
+I am a Computer Science professional specialized in **Industrial Automation**, **Generative AI** and **Computer Vision**. I bridge the gap between complex data and robust, production-ready software solutions.
 
-## Languages I know
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=SQL&logoColor=white)
+---
 
-## Frameworks and technologies I know
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgressSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🛠️ Expertise & Services
 
-## Get in Touch
+As a consultant and developer, I provide end-to-end technical solutions:
 
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/marcob11/)
+* 🤖 **Applied AI:** Designing and integrating advanced models, with a strong focus on Generative Adversarial Networks (GANs).
+* 🌐 **Data Engineering & Automation:** Developing high-performance web scrapers and local document processing engines.
+* 🏭 **Industrial Embedded Systems:** Firmware and hardware development using PIC and ATMEL microcontrollers for industrial environments.
+
+---
+
+## 💻 Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) |
+| **Frameworks** | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **Specialized** | ![Embedded](https://img.shields.io/badge/-Embedded_Systems-808080?logo=microchip&logoColor=white) ![Security](https://img.shields.io/badge/-Network_Security-E4405F?logo=wireshark&logoColor=white) |
+
+---
+
+## 📈 Professional Experience
+
+* **Product Developer & IT Consultant** | *Freelance*
+    * Delivering custom software solutions and strategic IT consulting for industrial clients.
+* **AI Research Intern** | *Breton S.p.A.*
+    * Leveraged Generative Adversarial Networks (GANs) for industrial optimization and innovation.
+
+---
+
+## 🎓 Education
+
+* **M.Sc. in Computer Science** – University of Padua, Italy
+* **B.Sc. in Computer Science** – University of Padua, Italy
+
+---
+
+## 📫 Let's Connect!
+
+I am always open to new challenges, innovative projects, or technical consulting opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcob11/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:me@marcob.dev)
